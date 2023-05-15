@@ -1,0 +1,29 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: images/*.png
+Copyright: 2021, 2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: audiocaps/dataset/Valid_Videos_Vis_Text.pickle
+Copyright: 2021, 2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: audiocaps/dataset/Valid_Videos_Text.pickle
+Copyright: 2021, 2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: audiocaps/dataset/Clustered_Words_Freq.csv
+Copyright: 2021, 2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: audiocaps/dataset/Class_Index_Freq.csv
+Copyright: 2021, 2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: final_audiocaps_graphcomb_context/pre_trained/ADE.h5
+Copyright: 2021, 2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: final_audiocaps_graphcomb_context/pre_trained/ADE.h5
+Copyright: 2019 Ruohan Gao
+License: CC-BY-4.0
